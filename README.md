@@ -24,6 +24,9 @@ This visualization shows the gross profit for the top 15 genres:
 This visualization shows the runtime against gross profit:
 <img src="Images/gross profit per runtime scatt.png">
 
+An interactive dashboard was created for further exploration of this analysis that can be found here:
+https://public.tableau.com/views/Movie-data-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
+
 ## Recommendations
 The following are recommendations drawn from the analysis done:
 1.  The company should have a sizeable production budget when creating the films. There was a strong positive relationship between production budget and the global gross profit of a film. More money towards production would lead to higher production quality in terms of graphics and cinematography drawing in more viewers.
