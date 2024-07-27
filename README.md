@@ -2,7 +2,7 @@
 <img src="Images/movie mosaic.jpg">
 
 ## Overview
-This project is an exploratory data analysis on film data obtained from various sources to hel our company as they venture into the film making industry. The task is to provide insights from the analysis to help the company make decisions on the kind of films to make to maximize profit and audience engagement.
+This project is an exploratory data analysis on film data obtained from various sources to help our company as they venture into the film making industry. The task is to provide insights from the analysis to help the company make decisions on the kind of films to make to maximize profit and audience engagement.
 
 ## Business Understanding
 The company seeks to enter the movie industry after seeing other big companies make original video content. They decide to create a studio, however they have no idea on the type of movies to create. The task is to determine the type of films currently doing well at the box office and help the company determine the kind of movies to make.
